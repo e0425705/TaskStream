@@ -68,7 +68,7 @@ public class Main {
             }
         }
     }
-
+    
     public static void printDeadlinesUsingStreams(ArrayList<Task> tasksData) {
         System.out.println("Printing deadline using streams");
         tasksData.stream()
